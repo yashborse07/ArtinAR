@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volkswagen Beetle '67 Toy car
+* source:	https://sketchfab.com/3d-models/volkswagen-beetle-67-toy-car-2d9dc2a6b975476f852e58ff4381ee9f
+* author:	Lassi Kaukonen (https://sketchfab.com/thesidekick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volkswagen Beetle '67 Toy car" (https://sketchfab.com/3d-models/volkswagen-beetle-67-toy-car-2d9dc2a6b975476f852e58ff4381ee9f) by Lassi Kaukonen (https://sketchfab.com/thesidekick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

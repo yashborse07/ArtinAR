@@ -1,0 +1,11 @@
+Model Information:
+* title:	doll
+* source:	https://sketchfab.com/3d-models/doll-7a976d6cf31d46e096f9157f170d4c89
+* author:	Stepanaan (https://sketchfab.com/Stepanaan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "doll" (https://sketchfab.com/3d-models/doll-7a976d6cf31d46e096f9157f170d4c89) by Stepanaan (https://sketchfab.com/Stepanaan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
